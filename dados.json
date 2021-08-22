@@ -1,0 +1,94 @@
+const dados = {
+    "ids": [
+        {
+            "dia": "segunda",
+            "materias": [
+                {
+                    "nome_materia": "aula01",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "123"
+                },
+                {
+                    "nome_materia": "aula02",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "456"
+                }
+            ]
+        },
+        {
+            "dia": "terça",
+            "materias": [
+                {
+                    "nome_materia": "aula01",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "123"
+                },
+                {
+                    "nome_materia": "aula02",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "456"
+                }
+            ]
+        },
+        {
+            "dia": "quarta",
+            "materias": [
+                {
+                    "nome_materia": "aula01",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "123"
+                },
+                {
+                    "nome_materia": "aula02",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "456"
+                }
+            ]
+        },
+        {
+            "dia": "quinta",
+            "materias": [
+                {
+                    "nome_materia": "aula01",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "123"
+                },
+                {
+                    "nome_materia": "aula02",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "456"
+                }
+            ]
+        },
+        {
+            "dia": "sexta",
+            "materias": [
+                {
+                    "nome_materia": "aula01",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "123"
+                },
+                {
+                    "nome_materia": "aula02",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "456"
+                }
+            ]
+        },
+        {
+            "dia": "sábado",
+            "materias": [
+                {
+                    "nome_materia": "Não, cara",
+                    "professores": "Mr. X",
+                    "id_zoom": ""
+                },
+                {
+                    "nome_materia": "Pfv não",
+                    "professores": "Mr. X ^ 2",
+                    "id_zoom": ""
+                }
+            ]
+        }
+    ]
+}
