@@ -4,15 +4,11 @@
             "dia": "segunda",
             "materias": [
                 {
-                    "nome_materia": "aula01",
-                    "professores": "Mr. Pirolla",
-                    "id_zoom": "123"
+                    "nome_materia": "Aplicação de Linguagem de Programação Orientada a Objeto",
+                    "professores": "Pirolla",
+                    "id_zoom": "92091334189"
                 },
-                {
-                    "nome_materia": "aula02",
-                    "professores": "Mr. Pirolla",
-                    "id_zoom": "456"
-                }
+                
             ]
         },
         {
