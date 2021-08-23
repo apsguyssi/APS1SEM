@@ -1,6 +1,9 @@
 {
     "ids": [
         {
+            "dia": "domingo..."
+        },
+        {
             "dia": "segunda",
             "materias": [
                 {
