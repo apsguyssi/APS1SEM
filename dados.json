@@ -39,14 +39,14 @@
             "dia": "quarta",
             "materias": [
                 {
-                    "nome_materia": "APLIC LING PROGR ORIEN OBJETOS ",
-                    "professores": "Mr. Pirolla",
-                    "id_zoom": "123"
+                    "nome_materia": "APLIC MODEL SIST ORIENT OBJ  ",
+                    "professores": "opa",
+                    "id_zoom": "94753635134"
                 },
                 {
-                    "nome_materia": "aula02",
-                    "professores": "Mr. Pirolla",
-                    "id_zoom": "456"
+                    "nome_materia": "APLIC MODEL SIST ORIENT OBJ ",
+                    "professores": "opa",
+                    "id_zoom": "98852193072"
                 }
             ]
         },
@@ -54,15 +54,26 @@
             "dia": "quinta",
             "materias": [
                 {
-                    "nome_materia": "aula01",
+                    "nome_materia": " LING DE PROG DE BCO DE DADOS ",
                     "professores": "Mr. Pirolla",
-                    "id_zoom": "123"
+                    "id_zoom": "91065560270"
                 },
                 {
-                    "nome_materia": "aula02",
+                    "nome_materia": " LING DE PROG DE BCO DE DADOS ",
                     "professores": "Mr. Pirolla",
-                    "id_zoom": "456"
+                    "id_zoom": "97601629445"
+                },   
+               {
+                    "nome_materia": "MATEMATICA DISCRETA",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "94315162019"
+                },
+                  {
+                    "nome_materia": "MATEMATICA DISCRETA",
+                    "professores": "Mr. Pirolla",
+                    "id_zoom": "91560761422"
                 }
+                
             ]
         },
         {
