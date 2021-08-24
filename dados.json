@@ -24,14 +24,14 @@
             "dia": "terça",
             "materias": [
                 {
-                    "nome_materia": "aula01",
-                    "professores": "Mr. Pirolla",
-                    "id_zoom": "123"
+                    "nome_materia": "APLIC LING PROGR ORIEN OBJETOS",
+                    "professores": "Prof. Paulo",
+                    "id_zoom": "94115210218"
                 },
                 {
-                    "nome_materia": "aula02",
-                    "professores": "Mr. Pirolla",
-                    "id_zoom": "456"
+                    "nome_materia": "APLIC LING PROGR ORIEN OBJETOS",
+                    "professores": "Prof. Paulo",
+                    "id_zoom": "94584671411"
                 }
             ]
         },
@@ -39,7 +39,7 @@
             "dia": "quarta",
             "materias": [
                 {
-                    "nome_materia": "aula01",
+                    "nome_materia": "APLIC LING PROGR ORIEN OBJETOS ",
                     "professores": "Mr. Pirolla",
                     "id_zoom": "123"
                 },
